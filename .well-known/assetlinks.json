@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nomoi.tacit",
+      "sha256_cert_fingerprints": []
+    },
+    "_pending": "sha256_cert_fingerprints needs Basin's Play App Signing certificate SHA-256 from Play Console > Setup > App integrity for com.nomoi.tacit. Not available via the Android Publisher API (no public GET endpoint) and Google auth automation is blocked; a human must read it from the Play Console UI and fill this array in. App Links verification will not activate until this is populated and redeployed."
+  }
+]
