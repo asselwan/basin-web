@@ -1,0 +1,22 @@
+# Basin
+
+> Basin is an Android app that reads supported payment notifications, shows where your
+> money went, and shows how long the money lasts until payday. Exact transaction amounts
+> stay on the device.
+
+## What Basin does
+
+- Reads supported payment notifications from bank and payment apps.
+- Shows a day-by-day runway to your next payday, set against your salary day.
+- Shows likely recurring charges and a shareable Basin Card that carries percentages only.
+- Keeps exact transaction amounts on the device. Only an anonymous bracketed range is
+  sent if you opt in to spend benchmarks.
+
+## Pricing
+
+- Free: runway to payday and subscription tracking, always.
+- Premium: AED 19.99 per month, with a 14-day free trial.
+
+## Pages
+
+- [Home](/): what Basin does, what it does not do, pricing, and the Google Play link.
